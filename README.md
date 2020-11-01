@@ -7,3 +7,9 @@ You can access to my repo [AI-things](https://github.com/YanisNC/AI-things) wher
 - Created some data visualizations
 - Trained the model using Gradient Boosting Classifier
 - Got 82.56% of accuracy
+
+### [Project 2: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
+- Created some data visualizations
+- Trained the model using SVM
+- Used the Linear, RBF and Polynomial kernel
+- Got 79% of accuracy using RBF kernel
