@@ -1,6 +1,6 @@
-## Yanis's Portfolio
+## My Portfolio
 
-You can access to my repo [AI-things](https://github.com/YanisNC/AI-things) where I'll be posting some projects about Data Science, Machine Learning and AI in general.
+You can go to my repo [AI-things](https://github.com/YanisNC/AI-things) where I'll be posting some projects about Data Science, Machine Learning, Deep Learning and AI in general.
 
 ### [Project 1: How Covid Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
 - Analyzed what purchasing categories have been most affected by Covid (positively and negatively).
