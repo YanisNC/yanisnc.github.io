@@ -1,6 +1,7 @@
 ## My Portfolio
 
-Hi there! I'll be posting some projects about Data Science, Machine Learning, Deep Learning and AI in general.
+Hi there! 
+I'll be posting some projects about Data Science, Machine Learning, Deep Learning and AI in general.
 
 ### [Project 1: Color Classification on E-commerce Clothes](https://github.com/YanisNC/Color-Classification-E-commerce-Clothes/blob/main/Color_Classification_on_E_commerce_Clothes.ipynb)
 - To face this unsupervised learning problem, I've used a dataset that contains 5000 unlabeled images.
