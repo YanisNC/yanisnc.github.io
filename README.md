@@ -15,16 +15,16 @@ I'll be posting some projects about Data Science, Machine Learning, Deep Learnin
 - The reviews have been preprocessed using NLTK.
 - BERT has been used for fine-tuning training.
 
-### [Project 2: How Covid Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
+### [Project 3: How Covid Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
 - Analyzed what purchasing categories have been most affected by Covid (positively and negatively).
 
-### [Project 3: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
+### [Project 4: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
 - Preprocessed the data
 - Created some data visualizations
 - Trained the model using Gradient Boosting Classifier
 - Got 82.56% of accuracy
 
-### [Project 4: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
+### [Project 5: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
 - Created some data visualizations
 - Trained the model using SVM
 - Used the Linear, RBF and Polynomial kernel
