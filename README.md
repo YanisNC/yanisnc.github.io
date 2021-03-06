@@ -10,6 +10,11 @@ I'll be posting some projects about Data Science, Machine Learning, Deep Learnin
 - Finally, we use a threshold, in the HSV color space, for the color that we want to detect from all the clothes.
 - If any of the N dominant colors is inside this threshold, it's classified as this color.
 
+### [Project 2: Sentiment Analysis Multi-Label Classification on E-commerce Reviews](https://github.com/YanisNC/Sentiment-Analysis-Multi-Label-Classification-E-Commerce-Reviews/blob/main/Sentiment_Analysis_Multi_label_Classification_on_E_Commerce_Reviews.ipynb)
+- The dataset contains 10000 samples of reviews and ratings about a fashion e-commerce.
+- The reviews have been preprocessed using NLTK.
+- BERT has been used for fine-tuning training.
+
 ### [Project 2: How Covid Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
 - Analyzed what purchasing categories have been most affected by Covid (positively and negatively).
 
