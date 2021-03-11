@@ -15,7 +15,7 @@ I'll be posting some projects about Data Science, Machine Learning, Deep Learnin
 - The reviews have been preprocessed using NLTK.
 - BERT has been used for fine-tuning training.
 
-### [Project 3: How Covid Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
+### [Project 3: How COVID-19 Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
 - Analyzed what purchasing categories have been most affected by Covid (positively and negatively).
 
 ### [Project 4: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
