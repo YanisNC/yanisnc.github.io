@@ -1,8 +1,4 @@
 ## Portfolio
-![image](https://user-images.githubusercontent.com/62355974/111032351-07c8b480-840c-11eb-8596-ffaed8f7528e.png)
-
-
-
 
 Hi there! 
 
