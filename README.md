@@ -3,7 +3,7 @@
 
 Hi there! 
 
-I'll be posting some projects about Data Science, Machine Learning, Deep Learning and AI in general.
+I'll be posting some projects about Machine Learning, Data Science and AI in general.
 
 ### [Project 1: Color Classification on E-commerce Clothes (Computer Vision)](https://github.com/YanisNC/Color-Classification-E-commerce-Clothes/blob/main/Color_Classification_on_E_commerce_Clothes.ipynb)
 - To face this unsupervised learning problem, I've used a dataset that contains 5000 unlabeled images.
