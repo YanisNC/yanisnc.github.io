@@ -16,6 +16,8 @@ I'll be posting some projects about Machine Learning, Data Science, NLP and AI i
   <img src="https://user-images.githubusercontent.com/62355974/111031195-8cb0cf80-8406-11eb-8e8a-658e149d2b60.png" width="632" />
 </p>
 
+----
+
 ### [Project 2: Sentiment Analysis Multi-Label Classification on E-commerce Reviews (NLP)](https://github.com/YanisNC/Sentiment-Analysis-Multi-Label-Classification-E-Commerce-Reviews/blob/main/Sentiment_Analysis_Multi_label_Classification_on_E_Commerce_Reviews.ipynb)
 - The dataset contains 10000 samples of reviews and ratings about a fashion e-commerce.
 - The reviews have been preprocessed using NLTK.
@@ -23,21 +25,29 @@ I'll be posting some projects about Machine Learning, Data Science, NLP and AI i
 
 <img src="https://user-images.githubusercontent.com/62355974/111031015-b3223b00-8405-11eb-8d67-e34267349e8e.png" width="400">
 
+----
 
 ### [Project 3: Text Summarization API (NLP)](https://github.com/YanisNC/Text-Summarization-NLP/blob/main/streamlit_app_unlimited.py)
 - Summarizes automatically any text or web page of any size using transformers and other models.
-- API deployed using Streamlit.
+- API deployed using Streamlit ([Summarizer](https://share.streamlit.io/yanisnc/text-summarization-nlp/main))
+- Transformers used: BART, T5, PEGASUS, Longformer and more.
+
+----
 
 ### [Project 4: How COVID-19 Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
 - Analyzed what purchasing categories have been most affected by Covid (positively and negatively).
 
 <img src="https://user-images.githubusercontent.com/62355974/111030855-c5e84000-8404-11eb-8364-f1402f6d144c.png" width="700">
 
+----
+
 ### [Project 5: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
 - Preprocessed the data with Pandas
 - Created some data visualizations with Matplotlib & Seaborn
 - Trained the model using Gradient Boosting Classifier
 - Got 82.56% of accuracy
+
+----
 
 ### [Project 6: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
 - Created some data visualizations
@@ -46,3 +56,13 @@ I'll be posting some projects about Machine Learning, Data Science, NLP and AI i
 - Got 79% of accuracy using RBF kernel
 
 ![image](https://user-images.githubusercontent.com/62355974/111030714-14e1a580-8404-11eb-9829-fafdcf58c13c.png)
+
+----
+
+<p align="center">
+  <a href="https://github.com/YanisNC">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/yanisnc/">LinkedIn</a>
+  •
+  <a href="mailto:yanisnc7@gmail.com">Contact</a>
+</p>
