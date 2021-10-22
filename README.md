@@ -2,7 +2,7 @@
 
 Hi there! 
 
-I'll be posting some projects about Machine Learning, Data Science and AI in general.
+I'll be posting some projects about Machine Learning, Data Science, NLP and AI in general.
 
 ### [Project 1: Color Classification on E-commerce Clothes (Computer Vision)](https://github.com/YanisNC/Color-Classification-E-commerce-Clothes/blob/main/Color_Classification_on_E_commerce_Clothes.ipynb)
 - To face this unsupervised learning problem, I've used a dataset that contains 5000 unlabeled images.
@@ -23,18 +23,23 @@ I'll be posting some projects about Machine Learning, Data Science and AI in gen
 
 <img src="https://user-images.githubusercontent.com/62355974/111031015-b3223b00-8405-11eb-8d67-e34267349e8e.png" width="400">
 
-### [Project 3: How COVID-19 Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
+
+### [Project 3: Text Summarization API (NLP)](https://github.com/YanisNC/Text-Summarization-NLP/blob/main/streamlit_app_unlimited.py)
+- Summarizes automatically any text or web page of any size using transformers and other models.
+- API deployed using Streamlit.
+
+### [Project 4: How COVID-19 Affected Banking Transactions](https://github.com/YanisNC/AI-things/blob/master/Covid%20Banking%20Transactions.ipynb)
 - Analyzed what purchasing categories have been most affected by Covid (positively and negatively).
 
 <img src="https://user-images.githubusercontent.com/62355974/111030855-c5e84000-8404-11eb-8364-f1402f6d144c.png" width="700">
 
-### [Project 4: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
-- Preprocessed the data
-- Created some data visualizations
+### [Project 5: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
+- Preprocessed the data with Pandas
+- Created some data visualizations with Matplotlib & Seaborn
 - Trained the model using Gradient Boosting Classifier
 - Got 82.56% of accuracy
 
-### [Project 5: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
+### [Project 6: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
 - Created some data visualizations
 - Trained the model using SVM
 - Used the Linear, RBF and Polynomial kernel
