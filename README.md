@@ -41,15 +41,16 @@ I'll be posting some projects about Machine Learning, Data Science, NLP and AI i
 
 ----
 
-### [Project 5: Titanic Kaggle Competition](https://github.com/YanisNC/AI-things/blob/master/Titanic_Kaggle.ipynb)
-- Preprocessed the data with Pandas
-- Created some data visualizations with Matplotlib & Seaborn
-- Trained the model using Gradient Boosting Classifier
-- Got 82.56% of accuracy
+### [Project 5: Breast Cancer Detection](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
+- Trained the model using Logistic Regression
+- Created some data visualizations
+- Got 97,1% of accuracy
+
+![image](https://user-images.githubusercontent.com/62355974/177318750-e97f88ec-a309-4b4a-9888-8f9796aa1900.png)
 
 ----
 
-### [Project 6: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
+### [Project 7: SVM on Cats dataset](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
 - Created some data visualizations
 - Trained the model using SVM
 - Used the Linear, RBF and Polynomial kernel
