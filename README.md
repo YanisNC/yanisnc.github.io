@@ -41,7 +41,7 @@ I'll be posting some projects about Machine Learning, Data Science, NLP and AI i
 
 ----
 
-### [Project 5: Breast Cancer Detection](https://github.com/YanisNC/AI-things/blob/master/Cats%20SVM.ipynb)
+### [Project 5: Breast Cancer Detection](https://github.com/YanisNC/Breast-Cancer-Detection/blob/main/Breast_Cancer_Detection.ipynb)
 - Trained the model using Logistic Regression
 - Created some data visualizations
 - Got 97,1% of accuracy
